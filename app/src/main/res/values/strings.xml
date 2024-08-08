@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Yan-Ken-Pon</string>
+    <string name="opc_piedra">PIEDRA</string>
+    <string name="opc_papel">PAPEL</string>
+    <string name="opc_tijera">TIJERA</string>
+    <string name="puntaje_ai">Ptos AI</string>
+    <string name="puntaje_usr">Ptos Usuario</string>
+    <string name="jugadas">Jugadas</string>
+    <string name="juego">Juego</string>
+    <string name="ganar">Usuario gana!</string>
+    <string name="perder">AI gana!</string>
+    <string name="iniciar">Listos? YA!!</string>
+    <string name="empatar">Empate!</string>
+    <string name="victoria">VICTORIA PARA TI! XD</string>
+    <string name="derrota">TE GANÉ! :(</string>
+    <string name="juego_1">2 de 3</string>
+    <string name="juego_2">3 de 5</string>
+    <string name="juego_3">6 de 10</string>
+    <string name="titulo_menu">Escoger juego</string>
+    <string name="dialogo_nuevo">Aceptar</string>
+    <string name="dialogo_salir">Cerrar</string>
+    <string name="dialogo_titulo">Fin Del Juego</string>
+    <string name="dialogo_ganas">Felicidades!! Ganaste %d a %d</string>
+    <string name="dialogo_pierdes">Lo siento! Perdiste %d a %d</string>
+</resources>
