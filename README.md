@@ -2,6 +2,9 @@
 
 Esta app interactiva para Android llamada Piedra Papel Tijera o Jan-Ken-Pon aunque parezca un juego sencillo, su creación requiere muchos conocimientos, permite a los usuarios jugar contra la máquina en tres modalidades de juego, el mejor de 3, el mejor de 5 y el mejor de 10.
 
+> [!IMPORTANT]
+> Si te interesa aprender cómo realizar alguna de estas funcionalidades de la aplicación, brindamos pequeños cursos de manera virtual y personalizada. O si deseas ayuda de un Desarrollador Junior o Senior **garantizado** para alguna aplicación que tienes en mente, puedes contactarnos por Whatsapp al [wa.me/59170616269](https://wa.me/59170616269).
+
 ## CONOCIMIENTOS APLICADOS
 
 - Creación y ejecución de una app básica de Compose en Android Studio.
