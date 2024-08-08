@@ -16,6 +16,8 @@ Esta app interactiva para Android llamada Piedra Papel Tijera o Jan-Ken-Pon aunq
 
 ## VIDEO DEL JUEGO EN ACCIÓN
 
+https://github.com/user-attachments/assets/40751e17-8161-4d61-b24c-d6f3c39513db
+
 ## PANTALLAS DEL PROYECTO
 
 <p align="center">
